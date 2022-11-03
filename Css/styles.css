@@ -56,6 +56,8 @@ h3 {
 }
 .btn {
     font-family: inherit;
+    font-size: inherit;
+    color: black;
     border-radius: 20px;
     border: 1px solid black;
     padding: 0.8em 1.5em;
